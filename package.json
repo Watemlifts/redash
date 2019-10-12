@@ -84,7 +84,7 @@
     "react2angular": "^3.2.1",
     "ui-select": "^0.19.8",
     "underscore.string": "^3.3.4",
-    "snyk": "^1.217.3"
+    "snyk": "^1.234.2"
   },
   "devDependencies": {
     "@babel/core": "^7.2.2",
