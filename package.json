@@ -76,7 +76,7 @@
     "numeral": "^2.0.6",
     "pace-progress": "git+https://github.com/getredash/pace.git",
     "pivottable": "^2.15.0",
-    "plotly.js": "1.41.3",
+    "plotly.js": "1.49.0",
     "prop-types": "^15.6.1",
     "react": "^16.8.3",
     "react-ace": "^6.1.0",
