@@ -83,7 +83,7 @@
     "react-dom": "^16.8.3",
     "react2angular": "^3.2.1",
     "ui-select": "^0.19.8",
-    "underscore.string": "^3.3.4",
+    "underscore.string": "^3.3.6",
     "snyk": "^1.234.2"
   },
   "devDependencies": {
