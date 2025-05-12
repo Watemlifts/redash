@@ -1,5 +1,5 @@
 # Snyk (https://snyk.io) policy file, patches or ignores known vulnerabilities.
-version: v1.13.5
+version: v1.25.1
 ignore: {}
 # patches apply the minimum changes required to fix a vulnerability
 patch:
@@ -25,3 +25,44 @@ patch:
         patched: '2019-10-12T07:54:13.179Z'
     - snyk > proxy-agent > pac-proxy-agent > https-proxy-agent:
         patched: '2019-10-12T07:54:13.179Z'
+  SNYK-JS-LODASH-567746:
+    - babel-eslint > @babel/traverse > lodash:
+        patched: '2025-05-12T05:25:15.142Z'
+        id: SNYK-JS-LODASH-567746
+        path: babel-eslint > @babel/traverse > lodash
+    - babel-plugin-transform-builtin-extend > babel-template > lodash:
+        patched: '2025-05-12T05:25:15.142Z'
+        id: SNYK-JS-LODASH-567746
+        path: babel-plugin-transform-builtin-extend > babel-template > lodash
+    - enzyme > cheerio > lodash:
+        patched: '2025-05-12T05:25:15.142Z'
+        id: SNYK-JS-LODASH-567746
+        path: enzyme > cheerio > lodash
+    - babel-eslint > @babel/traverse > @babel/generator > lodash:
+        patched: '2025-05-12T05:25:15.142Z'
+        id: SNYK-JS-LODASH-567746
+        path: babel-eslint > @babel/traverse > @babel/generator > lodash
+    - babel-plugin-transform-builtin-extend > babel-template > babel-types > lodash:
+        patched: '2025-05-12T05:25:15.142Z'
+        id: SNYK-JS-LODASH-567746
+        path: >-
+          babel-plugin-transform-builtin-extend > babel-template > babel-types >
+          lodash
+    - babel-plugin-transform-builtin-extend > babel-template > babel-traverse > lodash:
+        patched: '2025-05-12T05:25:15.142Z'
+        id: SNYK-JS-LODASH-567746
+        path: >-
+          babel-plugin-transform-builtin-extend > babel-template >
+          babel-traverse > lodash
+    - babel-plugin-transform-builtin-extend > babel-template > babel-traverse > babel-types > lodash:
+        patched: '2025-05-12T05:25:15.142Z'
+        id: SNYK-JS-LODASH-567746
+        path: >-
+          babel-plugin-transform-builtin-extend > babel-template >
+          babel-traverse > babel-types > lodash
+    - babel-eslint > @babel/traverse > @babel/helper-function-name > @babel/template > @babel/types > lodash:
+        patched: '2025-05-12T05:25:15.142Z'
+        id: SNYK-JS-LODASH-567746
+        path: >-
+          babel-eslint > @babel/traverse > @babel/helper-function-name >
+          @babel/template > @babel/types > lodash
