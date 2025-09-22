@@ -84,7 +84,7 @@
     "react2angular": "^3.2.1",
     "ui-select": "^0.19.8",
     "underscore.string": "^3.3.4",
-    "snyk": "^1.234.2"
+    "snyk": "^1.996.0"
   },
   "devDependencies": {
     "@babel/core": "^7.2.2",
@@ -130,7 +130,7 @@
     "webpack-build-notifier": "^0.1.30",
     "webpack-bundle-analyzer": "^2.11.1",
     "webpack-cli": "^3.1.2",
-    "webpack-dev-server": "^3.1.9",
+    "webpack-dev-server": "^4.8.0",
     "webpack-manifest-plugin": "^2.0.4"
   },
   "optionalDependencies": {
